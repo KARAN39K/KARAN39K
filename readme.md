@@ -1,9 +1,30 @@
-# 👋 Hi, I'm <Your Full Name>
+# 👋 Hi, I'm Karan
 
 🎯 Data Science Aspirant | Machine Learning Engineer in Progress  
-📍 Based in <City, Country>  
-📫 <your.email@example.com>  
+📍 Based in Delhi
+📫 karan@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com) • [Kaggle](https://kaggle.com/yourprofile)
+
+
+## 📈 Contribution Snake (Optional)
+
+Add this if you generate the snake animation:
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re working on AI / ML / Data projects, feel free to collaborate.
+
+⭐ Star repositories you find interesting.
 
 ---
 
@@ -104,23 +125,3 @@ class DataScienceProfile:
 - 🤝 Contribute to open source  
 
 ---
-
-## 📈 Contribution Snake (Optional)
-
-Add this if you generate the snake animation:
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
-## 🤝 Let’s Connect
-
-If you’re working on AI / ML / Data projects, feel free to collaborate.
-
-⭐ Star repositories you find interesting.
