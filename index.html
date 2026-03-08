@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Name | Data Scientist</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: #0f172a; color: #e2e8f0; line-height: 1.6; }
+        a { text-decoration: none; color: inherit; }
+        header { padding: 20px 10%; display: flex; justify-content: space-between; align-items: center; }
+        header h1 { font-size: 22px; font-weight: 600; }
+        nav a { margin-left: 20px; font-size: 14px; opacity: 0.8; }
+        nav a:hover { opacity: 1; }
+        .hero { padding: 100px 10%; text-align: left; }
+        .hero h2 { font-size: 48px; font-weight: 700; margin-bottom: 20px; }
+        .hero span { color: #38bdf8; }
+        .hero p { max-width: 600px; margin-bottom: 30px; opacity: 0.8; }
+        .btn { display: inline-block; padding: 12px 24px; border-radius: 8px; font-size: 14px; font-weight: 600; }
+        .btn-primary { background: #38bdf8; color: #0f172a; margin-right: 15px; }
+        .btn-secondary { border: 1px solid #38bdf8; color: #38bdf8; }
+        .section { padding: 80px 10%; }
+        .section h3 { font-size: 28px; margin-bottom: 30px; }
+        .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .card { background: #1e293b; padding: 25px; border-radius: 12px; transition: 0.3s; }
+        .card:hover { transform: translateY(-5px); }
+        .card h4 { margin-bottom: 10px; }
+        footer { padding: 40px 10%; text-align: center; font-size: 14px; opacity: 0.6; }
+        @media(max-width: 768px){
+            .hero h2 { font-size: 34px; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Your Name</h1>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Building <span>Intelligent Systems</span><br> with Data & AI</h2>
+    <p>Data Science aspirant focused on Machine Learning, Deep Learning, and scalable AI solutions. Passionate about transforming raw data into production-ready intelligent systems.</p>
+    <a href="#projects" class="btn btn-primary">View Projects</a>
+    <a href="#contact" class="btn btn-secondary">Get in Touch</a>
+</section>
+
+<section id="about" class="section">
+    <h3>About Me</h3>
+    <p>I am building expertise in Machine Learning, Statistics, and AI engineering. My focus is on creating end-to-end ML pipelines, deploying models, and optimizing systems for real-world impact.</p>
+</section>
+
+<section id="projects" class="section">
+    <h3>Featured Projects</h3>
+    <div class="cards">
+        <div class="card">
+            <h4>Customer Churn Prediction</h4>
+            <p>Built a classification model with feature engineering and hyperparameter tuning. Evaluated using ROC-AUC and cross-validation.</p>
+        </div>
+        <div class="card">
+            <h4>Sentiment Analysis (NLP)</h4>
+            <p>Fine-tuned transformer-based models for text classification and deployed inference pipeline.</p>
+        </div>
+        <div class="card">
+            <h4>Time Series Forecasting</h4>
+            <p>Developed LSTM-based forecasting model and benchmarked against statistical baselines.</p>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="section">
+    <h3>Contact</h3>
+    <p>Email: your.email@example.com</p>
+    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    <p>GitHub: github.com/yourusername</p>
+</section>
+
+<footer>
+    © 2026 Your Name. All rights reserved.
+</footer>
+
+</body>
+</html>
