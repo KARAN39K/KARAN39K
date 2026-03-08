@@ -11,15 +11,6 @@
 
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
----
-
-## 📈 Contribution Snake (Optional)
-
-Add this if you generate the snake animation:
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 👀 Profile Views
 
